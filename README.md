@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayaDeep11
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ... java
-- 📫 How to reach me dm jaydeep.bellamkonda@gmail.com
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning Something...
+- 📫 How to reach me dm jayadeep.bellamkonda@gmail.com
 
 <!---
 JayaDeep11/JayaDeep11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
