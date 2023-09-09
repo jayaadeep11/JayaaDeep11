@@ -1,19 +1,11 @@
-## Hi there, I'm Castor <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+## Hi there, I'm JayaDeep <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 > A Linux enthusiast, FOSS/FLOSS advocate, privacy and freedom proponent, and a **self-taught** frontend designer and developer.
 
-[![Website](https://img.shields.io/badge/-🌈%20Website-FFF?style=for-the-badge)](https://castorIsDead.xyz)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-FFF?&logo=Mastodon&style=for-the-badge)](https://fosstodon.org/@whoisYoges)
 [![Telegram](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram&style=for-the-badge)](https://t.me/whoisYoges)
-[![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/whoisYoges)
-[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto://whoisyoges@castorisdead.xyz)
+[![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/jayadeep_11)
+[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto://jayadeep.bellamkonda@gmail.com)
 
-### **Main:**
-<https://git.sr.ht/~whoisyoges/>
-
-### **Mirrors:**
-<https://codeberg.org/whoisyoges/>  
-<https://github.com/whoisyoges/>
 
 ### Languages and Techonogies I Use Most:
 
