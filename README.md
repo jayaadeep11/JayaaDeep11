@@ -4,7 +4,7 @@
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/jayadeep_11)
-[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto://jayadeep.bellamkonda@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto:jayadeep.bellamkonda@gmail.com)
 
 
 ### Languages and Techonogies I Use Most:
