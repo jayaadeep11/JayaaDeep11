@@ -2,7 +2,7 @@
 
 > A Linux enthusiast, FOSS/FLOSS advocate, privacy and freedom proponent, and a **self-taught** frontend designer and developer.
 
-[![Telegram](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram&style=for-the-badge)](https://t.me/whoisYoges)
+
 [![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/jayadeep_11)
 [![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto://jayadeep.bellamkonda@gmail.com)
 
@@ -31,12 +31,5 @@
 ![Apache Server](https://img.shields.io/badge/Apache-000?logo=apache&logoColor=red&style=for-the-badge)
 [![Latex](https://img.shields.io/badge/LaTex-000?logo=latex&logoColor=blue&style=for-the-badge)](https://www.latex-project.org)
 
-<p align="center">Visitor Count<br>
-    <a href="https://castorIsDead.xyz">
-        <img src="https://profile-counter.glitch.me/whoisYoges/count.svg">
-    </a><br>
-    <img src="https://user-images.githubusercontent.com/51807726/195896676-6a4f13fa-1d69-49f1-abda-ae3df1cdf54b.gif"><br>
-    Now, Since you are here,<br>how about you <a href="https://guestbook.yogeshlamichhane.com.np">sign my guestbook</a>
-</p>
 
-[![Something Cool](https://holopin.me/whoisyoges)](https://holopin.io/@whoisyoges)
+
