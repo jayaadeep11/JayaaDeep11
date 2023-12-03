@@ -25,10 +25,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396&style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify&style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare&style=for-the-badge)
-![NGINX](https://img.shields.io/badge/NGINX-000?logo=nginx&logoColor=green&style=for-the-badge)
-![Apache Server](https://img.shields.io/badge/Apache-000?logo=apache&logoColor=red&style=for-the-badge)
 [![Latex](https://img.shields.io/badge/LaTex-000?logo=latex&logoColor=blue&style=for-the-badge)](https://www.latex-project.org)
 
 
