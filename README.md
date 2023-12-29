@@ -17,7 +17,7 @@
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-000?&logo=gnubash&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
-![react](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![react](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge)
 
 
 ### I am familiar with:
