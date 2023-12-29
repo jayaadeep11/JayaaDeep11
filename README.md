@@ -17,7 +17,8 @@
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-000?&logo=gnubash&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
-![Zola](https://img.shields.io/badge/-Zola-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfmDAYFJjuYTEgJAAAB60lEQVRYw+2YP0hVURzHv++f1jM0XlTm4CIt4VCTg05BuAgiDoZEQ7S2Bi6GCOHS4iBRT1zdAommF4QkDv4bfFC4OBj0B55Qvuf19fB8XGz0nnMP71hD54znez6fc+65XH7nSlJeo3qvA9HEfqgPGtMlScrrhaKmwv/0uorqkEZVC4JHKNKDjF6pR6FaVp0pVdUWTCBVUyIgXiK0QOmw+HMQZO0rSFkSyPgLchpRn0VQ1oJlATE9TxFbexNL+Ntn0NCS9s4Yu6d+SdKmReH5nelmC4BV2uOTfvgcz2gAFfpsWT/BXb4BdWZoDSG4zCcAtumyp30ez2sAagy45JPiU4ywD9R56jYjqeAKHzEYSlwLIcjwHIAKw65zkgnucwQYpsmGENykDECJNvdZ7vgWZjjG8J3bSXbtHh2iAhwxRUsIQSe7AGxwNdGpOQpaWQTgF3eS4d0Eacb5CUQ8SYp3E1xnA4PhHYUQgixzAPxgMDneRfCYBnDMBOkQgl52AFjiog/eJrjALAbDF2754W2CsdO3Z4KcpyC2+O3Sum5IOtC89s9Mbemtb1UxYC26ACZjd9CEwuuzf+H1VS8dBGuxo/8vIP+CIArKj9LaDiooZ1TTkP2m5tl+a+ocfoZIHXqoZVWbCj/Uih6pIJ0AE+y5T215F/QAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTItMDZUMDU6Mzc6MzYrMDA6MDDrwAeTAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTEyLTA2VDA1OjM3OjM2KzAwOjAwmp2/LwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMi0xMi0wNlQwNTozODo1OSswMDowMAykvBMAAAAASUVORK5CYII=&style=for-the-badge)
+![react]https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+
 
 ### I am familiar with:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
