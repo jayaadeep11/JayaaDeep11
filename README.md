@@ -1,6 +1,6 @@
-## Hi there, I'm JayaDeep <img width="30"
+## Hi there, I'm JayaDeep
 
-> A Linux enthusiast,privacy and freedom proponent, and a **self-taught** frontend designer and developer.
+> A **Linux** enthusiast,privacy and freedom proponent, and a **self-taught** frontend designer and developer.
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/jayadeep_11)
