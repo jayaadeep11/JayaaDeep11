@@ -5,7 +5,7 @@
 
 <h4>Language and Tools I use</h4>
 <img
-    src="https://skillicons.dev/icons?i=arch,linux,neovim,lua,c,cpp,python,java,md,git,github,bash,html,css,javascript,&perline=8" />
+    src="https://skillicons.dev/icons?i=arch,linux,neovim,vim,c,cpp,python,lua,java,git,github,bash,html,css,javascript,md&perline=8" />
 
 <h4>Exploring</h4>
 <img src="https://skillicons.dev/icons?i=rust" />
