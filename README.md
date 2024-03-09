@@ -1,31 +1,25 @@
-## Hi there, I'm JayaDeep
+<h1 align="center">JayaDeep Bellamkonda</h1>
+<p align="center">
+    A <strong>Linux</strong> enthusiast,privacy and freedom proponent, and a <strong>self-taught</strong> frontend designer and developer.
+</p>
 
-> A **Linux** enthusiast,privacy and freedom proponent, and a **self-taught** frontend designer and developer.
+<h4>Language and Tools I use</h4>
+<img
+    src="https://skillicons.dev/icons?i=arch,linux,neovim,lua,c,cpp,python,java,md,git,github,bash,html,css,javascript,&perline=" />
 
+<h4>Exploring</h4>
+<img src="https://skillicons.dev/icons?i=rust" />
 
-[![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/jayadeep_11)
-[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto:jaydeep.bellamkonda@gmail.com)
-
-
-### Languages and Techonogies I Use Most:
-
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&style=for-the-badge)
-![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-000?&logo=gnubash&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
-
-
-### I am familiar with:
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
-![C Programming](https://img.shields.io/badge/-C%20Programming-000?&logo=c&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396&style=for-the-badge)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
-[![Latex](https://img.shields.io/badge/LaTex-000?logo=latex&logoColor=blue&style=for-the-badge)](https://www.latex-project.org)
-
-
-
+<h4>Working Environment</h4>
+<p>
+    <img alt="OS"
+        src="https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Window Manager"
+        src="https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Editor"
+        src="https://img.shields.io/badge/NeoVim-3e68d7?style=for-the-badge&logo=neovim&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="TMUX"
+        src="https://img.shields.io/badge/Tmux-3e68d7?style=for-the-badge&logo=tmux&logoColor=c0caf5&labelColor=3b4261" />
+    <img alt="Terminal"
+        src="https://img.shields.io/badge/Alacritty-3e68d7?style=for-the-badge&logo=alacritty&logoColor=c0caf5&labelColor=3b4261" />
+</p>
