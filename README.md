@@ -11,15 +11,26 @@
 <img src="https://skillicons.dev/icons?i=rust" />
 
 <h4>Working Environment</h4>
+
 <p>
-    <img alt="OS"
-        src="https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261" />
-    <a href = "https://github.com/JayaDeep11/dotfiles/tree/main/hypr" ><img alt="Window Manager"
-        src="https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261" /></a>
-    <img alt="Editor"
-        src="https://img.shields.io/badge/NeoVim-3e68d7?style=for-the-badge&logo=neovim&logoColor=c0caf5&labelColor=3b4261" />
-    <img alt="TMUX"
-        src="https://img.shields.io/badge/Tmux-3e68d7?style=for-the-badge&logo=tmux&logoColor=c0caf5&labelColor=3b4261" />
-    <img alt="Terminal"
-        src="https://img.shields.io/badge/Alacritty-3e68d7?style=for-the-badge&logo=alacritty&logoColor=c0caf5&labelColor=3b4261" />
+    <a href="https://github.com/JayaDeep11/dotfiles">
+        <img alt="OS"
+            src="https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261" />
+    </a>
+    <a href="https://github.com/JayaDeep11/dotfiles/tree/main/hypr">
+        <img alt="Window Manager"
+            src="https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261" />
+    </a>
+    <a href="https://github.com/JayaDeep11/dotfiles/tree/main/nvim">
+        <img alt="Editor"
+            src="https://img.shields.io/badge/NeoVim-3e68d7?style=for-the-badge&logo=neovim&logoColor=c0caf5&labelColor=3b4261" />
+    </a>
+    <a href="https://github.com/JayaDeep11/dotfiles/tree/main/tmux">
+        <img alt="TMUX"
+            src="https://img.shields.io/badge/Tmux-3e68d7?style=for-the-badge&logo=tmux&logoColor=c0caf5&labelColor=3b4261" />
+    </a>
+    <a href="https://github.com/JayaDeep11/dotfiles/tree/main/kitty">
+        <img alt="Terminal"
+            src="https://img.shields.io/badge/Alacritty-3e68d7?style=for-the-badge&logo=alacritty&logoColor=c0caf5&labelColor=3b4261" />
+    </a>
 </p>
