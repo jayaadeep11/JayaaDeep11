@@ -14,8 +14,8 @@
 <p>
     <img alt="OS"
         src="https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261" />
-    <img alt="Window Manager"
-        src="https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261" />
+    <a href = "https://github.com/JayaDeep11/dotfiles/tree/main/hypr" ><img alt="Window Manager"
+        src="https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261" /></a>
     <img alt="Editor"
         src="https://img.shields.io/badge/NeoVim-3e68d7?style=for-the-badge&logo=neovim&logoColor=c0caf5&labelColor=3b4261" />
     <img alt="TMUX"
