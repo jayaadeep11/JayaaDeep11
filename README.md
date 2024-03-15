@@ -13,7 +13,7 @@
 <h4>Working Environment</h4>
 
 [![OS](https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles)
-[![hypr](https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles)
+[![hypr](https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles/tree/main/hypr)
 [![neovim](https://img.shields.io/badge/NeoVim-3e68d7?style=for-the-badge&logo=neovim&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles/tree/main/nvim)
 [![tmux](https://img.shields.io/badge/Tmux-3e68d7?style=for-the-badge&logo=tmux&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles/tree/main/tmux)
 [![kitty](https://img.shields.io/badge/Alacritty-3e68d7?style=for-the-badge&logo=alacritty&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles/tree/main/kitty)
