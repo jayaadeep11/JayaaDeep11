@@ -3,9 +3,11 @@
     A <strong>Linux</strong> enthusiast,privacy and freedom proponent, and a <strong>self-taught</strong> frontend designer and developer.
 </p>
 
+<img style="display:inline" src="./asserts/desktop.jpg" />
 <h4>Language and Tools I use</h4>
 <img
     src="https://skillicons.dev/icons?i=arch,linux,neovim,vim,c,cpp,python,lua,java,git,github,bash,html,css,javascript,md&perline=8" />
+
 
 <h4>Exploring</h4>
 <img src="https://skillicons.dev/icons?i=rust" />
