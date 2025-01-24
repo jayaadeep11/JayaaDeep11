@@ -13,7 +13,7 @@
 
 <h4>Working Environment</h4>
 
-<img style="display:inline" src="./asserts/desktop.jpg" />
+<img style="display:inline" src="./asserts/cover-01.jpg" />
 
 [![OS](https://img.shields.io/badge/Arch_Linux-3e68d7?style=for-the-badge&logo=arch%20linux&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles)
 [![hypr](https://img.shields.io/badge/Hyprland-3e68d7?style=for-the-badge&logo=wayland&logoColor=c0caf5&labelColor=3b4261)](https://github.com/JayaDeep11/dotfiles/tree/main/hypr)
